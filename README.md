@@ -1,7 +1,7 @@
 # 💫 About Zubby:
 ![a funny cat lmaoa](cato.jpg)
 
-Hi, my name is Gabriele and i'm currently studying CS in an italian high school;
+Hi, my name is Gabriele🖤 and i'm currently studying CS in an italian high school;
 This thing was generated on a website ( [this one](https://gprm.itsvg.in/) )
 
 # 💻 Tech Stack (something's missing i guess idk that's something):
